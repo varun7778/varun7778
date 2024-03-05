@@ -2,15 +2,9 @@
 
 ###
 
-<p align="left">My name is Varun Anusheel and I'm a AI/ML Developer</p>
+<p align="center">My name is Varun Anusheel and I'm a AI/ML Developer</p>
 
 ###
-
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="dp-2.jpg"  />
-</div>
 
 ###
 
