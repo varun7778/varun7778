@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="center">My name is Varun Anusheel and I'm a AI/ML Developer</p>
+<p align="left">My name is Varun Anusheel and I'm a AI/ML Developer</p>
 
 ###
 
